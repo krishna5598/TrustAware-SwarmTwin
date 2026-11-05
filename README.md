@@ -1,4 +1,4 @@
-# Trust- and Compliance-Aware Decentralised Emergency Vehicle Corridor Coordination Using Local Digital Twins and Swarm Intelligence
+# Trust and Compliance Aware Decentralised Emergency Vehicle Corridor Coordination Using Local Digital Twins and Swarm Intelligence
 
 A functional, full-stack, algorithm-driven web application demonstrating decentralised emergency vehicle corridor coordination across connected autonomous vehicle agents without relying on centralized bottlenecks or external traffic simulators.
 
